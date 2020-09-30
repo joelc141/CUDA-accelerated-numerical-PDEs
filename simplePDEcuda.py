@@ -2,8 +2,6 @@
 """
 Created on Mon Apr 27 15:26:26 2020
 
-@author: joelc
-"""
 
 #!/usr/local/anaconda3/bin/python3
 
